@@ -1,3 +1,3 @@
 # ProGamerCode.github.io
-WebVR-test
+WebAR-test
 go2 https://ProGamerCode.github.io
